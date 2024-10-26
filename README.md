@@ -6,11 +6,16 @@ This project implements the BB84 Quantum Key Distribution (QKD) protocol using Q
  
 
 
-## Requirements
 
--numpy>=1.21.0
--qiskit>=0.30.0
--qiskit-aer>=0.30.0
+# Requirements
+
+This project requires the following Python packages:
+
+- **numpy**: Numerical operations in Python.
+- **qiskit**: Quantum computing framework.
+- **qiskit-aer**: High-performance simulators for Qiskit.
+
+ 
 
 
  
