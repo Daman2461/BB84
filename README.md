@@ -17,5 +17,6 @@ This project requires the following Python packages:
 
  
 
-
+# Sample Output
  
+<img width="999" alt="image" src="https://github.com/user-attachments/assets/f2f8fe2f-556b-4f8e-8c33-c3ff312dc8b3">
